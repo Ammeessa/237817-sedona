@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ale Son](https://up.htmlacademy.ru/htmlcss/14/user/237817).
-* Наставник: Леонид Лебедев.
+* Наставник: [Леонид Лебедев] (https://htmlacademy.ru/profile/id67135).
 
 ---
 
